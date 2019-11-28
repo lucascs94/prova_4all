@@ -7,8 +7,8 @@
 • Navegador google chrome na versão 78
 • Navegador Mozilla Firefox na versão 70
 
-Os testes devem ser executados localmente de dentro da IDE utilizada pelo avaliador. Os testes estão contidos na pasta ‘avaliacao-4all\src\test\java’
+Os testes devem ser executados localmente de dentro da IDE utilizada pelo avaliador. Os testes estão contidos na pasta ‘prova_4all\src\test\java’
 
 Para seleção do navegador a ser utilizado, deve-se acessar o arquivo ‘configuration/run.properties’ e alterar o parâmetro “driverType” selecionando as opções ‘chrome’ ou ‘firefox’.
 
-Os relatórios de teste são gerados na pasta ‘avaliacao-4all\reports’. Os testes de geram um único relatório html contendo todos os testes marcados para aquela execução e um novo relatório é gerado a cada execução iniciada.
+Os relatórios de teste são gerados na pasta ‘prova_4all\reports’. Os testes de geram um único relatório html contendo todos os testes marcados para aquela execução e um novo relatório é gerado a cada execução iniciada.
